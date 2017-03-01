@@ -19,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/bASTIENdEkAN/gitlab/issues"
   },
-  "homepage": "https://github.com/bASTIENdEkAN/gitlab#readme"
+  "homepage": "https://github.com/bASTIENdEkAN/gitlab#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.1.1",
+    "eslint": "^3.16.1"
+  }
 }

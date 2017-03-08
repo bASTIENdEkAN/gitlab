@@ -1,5 +1,7 @@
+# Created by https://www.gitignore.io/api/osx,node,git,sass,visualstudiocode
 
-# Created by https://www.gitignore.io/api/osx,node,sass
+### Git ###
+*.orig
 
 ### Node ###
 # Logs
@@ -94,4 +96,15 @@ Temporary Items
 .sass-cache/
 *.css.map
 
-# End of https://www.gitignore.io/api/osx,node,sass
+### VisualStudioCode ###
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# End of https://www.gitignore.io/api/osx,node,git,sass,visualstudiocode
+
+### Custom ###
+/dist
+_README-*.md
